@@ -1,6 +1,6 @@
 # RestCountries
 
-Simple excercise App
+Simple exercise App
 presents data about countries from REST API at https://restcountries.eu, presents data about countries around the world
 
 * App Supports:
