@@ -16,7 +16,9 @@ presents data about countries from REST API at https://restcountries.eu, present
 ## Installation
 
 Download
+```
 pod install
+```
 Run
 
 ### Manual
